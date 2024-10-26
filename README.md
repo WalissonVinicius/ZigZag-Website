@@ -36,7 +36,7 @@ Este site foi projetado com foco em **facilidade de navegação** e **design atr
 ### **Como Usar e Navegar no Projeto** 📥  
 1. **Clone o repositório:**  
    ```bash
-   git clone https://github.com/SeuUsuario/ZigZag-Website.git
+   git clone https://github.com/WalissonVinicius/ZigZag-Website
    ```
 2. **Abra o arquivo `index.html`** no navegador ou use o **Live Server** do VSCode para visualizar localmente.  
 
